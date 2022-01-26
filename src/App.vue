@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <PolygonWithLabel />
+    <GoogleMapPolygon />
   </div>
 </template>
 
 <script>
-import PolygonWithLabel from "./components/PolygonWithLabel";
+import GoogleMapPolygon from "./components/Polygon";
 
 export default {
   name: "App",
   components: {
-    PolygonWithLabel,
+    GoogleMapPolygon,
   },
 };
 </script>
