@@ -1,2 +1,2 @@
-# google-maps-polygon-editable-toggle-vuejs
+# google-maps-polygon-labels
 Created with CodeSandbox
